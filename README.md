@@ -1,4 +1,4 @@
-Copyright (C) 2021 The LineageOS Project
+Copyright (C) 2021 The LineageOS Project  
 Copyright (C) 2022 MBRjun
 
 Device configuration for Xiaomi Mi 9 SE
